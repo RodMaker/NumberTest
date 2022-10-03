@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\bin\Debug\netcoreapp3.1\NumberTest.exe
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\bin\Debug\netcoreapp3.1\NumberTest.deps.json
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\bin\Debug\netcoreapp3.1\NumberTest.runtimeconfig.json
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\bin\Debug\netcoreapp3.1\NumberTest.runtimeconfig.dev.json
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\bin\Debug\netcoreapp3.1\NumberTest.dll
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\bin\Debug\netcoreapp3.1\NumberTest.pdb
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\obj\Debug\netcoreapp3.1\NumberTest.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\obj\Debug\netcoreapp3.1\NumberTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\obj\Debug\netcoreapp3.1\NumberTest.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\obj\Debug\netcoreapp3.1\NumberTest.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\obj\Debug\netcoreapp3.1\NumberTest.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\obj\Debug\netcoreapp3.1\NumberTest.dll
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\obj\Debug\netcoreapp3.1\NumberTest.pdb
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberTest\NumberTest\obj\Debug\netcoreapp3.1\NumberTest.genruntimeconfig.cache
